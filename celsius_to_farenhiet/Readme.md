@@ -35,3 +35,9 @@ As we are using TensorFlow, so we use our optimizer as `Adam` optimizer and epoc
 Epoch value is nothing but the number of iterations that should be done to optimize our model for finest solution.
 
 Let's code it and [check it out](https://github.com/Anirudh3167/ML_LEARNING/blob/main/celsius_to_farenhiet/single_layer_model.py)
+
+
+### Method-2:-
+we can make the single layered neural network as multi-layered.
+
+Let's code it and [check it out](https://github.com/Anirudh3167/ML_LEARNING/blob/main/celsius_to_farenhiet/multi_layer_model.py)
